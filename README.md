@@ -1,10 +1,10 @@
 # comment_import_amazon_to_wordpress
 ## 软件使用前工具准备
 1.安装Chrome浏览器：http://chrome.siyue51.fun/（中文） 或者 https://www.google.com/chrome/bsem/download/en_us/（英文需要VPN）  
-![RKLG IV}Y3B9~XFFFE_QJYB](https://user-images.githubusercontent.com/44847916/199871031-1f4838d6-5cb6-4cf6-8abe-2e2c243b5c42.png)
-2.Chrome中安装Ryviu插件（收费）：https://chrome.google.com/webstore/search/Ryviu（需要VPN）  
+![RKLG IV}Y3B9~XFFFE_QJYB](https://user-images.githubusercontent.com/44847916/199871031-1f4838d6-5cb6-4cf6-8abe-2e2c243b5c42.png)  
+2.Chrome中安装Ryviu插件（收费）：https://chrome.google.com/webstore/search/Ryviu（需要VPN）    
 ![FQB@G7U{(W`5`J$$ 2_AT{0](https://user-images.githubusercontent.com/44847916/199871110-a2b86109-c01a-4e17-8614-dbd5a74185c5.png)
-3.设置浏览器插件快捷方式：设置 -> 
+3.设置浏览器插件快捷方式：设置 ->   
 ![JEAK UAK)1)%9I $E}~_(EY](https://user-images.githubusercontent.com/44847916/199869526-1d75f22e-89a9-4dd1-85b2-ff8015648e81.png)
 ![C08IY)@CSLBC21WK F3 `}Y](https://user-images.githubusercontent.com/44847916/199869703-d4266079-19a7-4b44-84b4-cbc55f4561ba.png)
 ![NBF4F(HKCBMFNK(WSW7AO5W](https://user-images.githubusercontent.com/44847916/199869831-63a21c49-0265-48f1-bf5a-4c2e434a92f1.png)
