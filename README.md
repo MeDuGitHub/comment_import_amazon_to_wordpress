@@ -6,8 +6,9 @@
 ![FQB@G7U{(W`5`J$$ 2_AT{0](https://user-images.githubusercontent.com/44847916/199871110-a2b86109-c01a-4e17-8614-dbd5a74185c5.png)  
 3.设置浏览器插件快捷方式：设置 ->   
 ![JEAK UAK)1)%9I $E}~_(EY](https://user-images.githubusercontent.com/44847916/199869526-1d75f22e-89a9-4dd1-85b2-ff8015648e81.png)
-![C08IY)@CSLBC21WK F3 `}Y](https://user-images.githubusercontent.com/44847916/199869703-d4266079-19a7-4b44-84b4-cbc55f4561ba.png)  
-
+![C08IY)@CSLBC21WK F3 `}Y](https://user-images.githubusercontent.com/44847916/199869703-d4266079-19a7-4b44-84b4-cbc55f4561ba.png)
+![U5UWY %$WO(FCWQ{FQ)1E$2](https://user-images.githubusercontent.com/44847916/199871483-f07c6196-d5f3-499b-90d5-3d1c0b084a40.png)
+![3_V TEF0$Z(E{2E(%WV9UA5](https://user-images.githubusercontent.com/44847916/199871512-583d8318-de72-414f-87dc-b841ae4cf2c3.png)  
 ## 软件使用前设置
 1.选择加载插件目录，插件插件目录一般在：C:\Users\（用户名）\AppData\Local\Google\Chrome\User Data  
 ![HO71%6F}HHHDAO(GFX}ML%6](https://user-images.githubusercontent.com/44847916/199865531-7d89354d-3cea-4574-a522-494fa2097a3d.png)  
