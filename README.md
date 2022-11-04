@@ -4,7 +4,12 @@
 ![W(P%PEW9~{@)CHCI~4D~`X](https://user-images.githubusercontent.com/44847916/199862216-f95363f3-c1fb-42be-ac65-0e2903fc3628.png)  
 2.Chrome中安装Ryviu插件（收费）：https://chrome.google.com/webstore/search/Ryviu（需要VPN）  
 ![80VE@N%5I0C1%32VIK9(P36](https://user-images.githubusercontent.com/44847916/199862295-33d6b7ba-6df8-4535-8d88-a698735c4b57.png)  
-3.设置浏览器插件快捷方式
+3.设置浏览器插件快捷方式：设置 -> 
+![JEAK UAK)1)%9I $E}~_(EY](https://user-images.githubusercontent.com/44847916/199869526-1d75f22e-89a9-4dd1-85b2-ff8015648e81.png)
+![C08IY)@CSLBC21WK F3 `}Y](https://user-images.githubusercontent.com/44847916/199869703-d4266079-19a7-4b44-84b4-cbc55f4561ba.png)
+![NBF4F(HKCBMFNK(WSW7AO5W](https://user-images.githubusercontent.com/44847916/199869831-63a21c49-0265-48f1-bf5a-4c2e434a92f1.png)
+![PS~ `RDC BLESH5KWK)MDDF](https://user-images.githubusercontent.com/44847916/199869920-a241a205-2e1e-40f2-8694-cb9d4eea644a.png)
+![Uploading 3_V[TEF0$Z(E{2E(%WV9UA5.png…]()  
 ## 软件使用前设置
 1.选择加载插件目录，插件插件目录一般在：C:\Users\（用户名）\AppData\Local\Google\Chrome\User Data  
 ![HO71%6F}HHHDAO(GFX}ML%6](https://user-images.githubusercontent.com/44847916/199865531-7d89354d-3cea-4574-a522-494fa2097a3d.png)  
