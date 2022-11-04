@@ -5,3 +5,7 @@
 2.Chrome中安装Ryviu插件（收费）：https://chrome.google.com/webstore/search/Ryviu（需要VPN）  
 ![80VE@N%5I0C1%32VIK9(P36](https://user-images.githubusercontent.com/44847916/199862295-33d6b7ba-6df8-4535-8d88-a698735c4b57.png)  
 ## 软件使用设置
+1.选择加载插件目录，插件插件目录一般在：C:\Users\（用户名）\AppData\Local\Google\Chrome\User Data  
+![HO71%6F}HHHDAO(GFX}ML%6](https://user-images.githubusercontent.com/44847916/199865531-7d89354d-3cea-4574-a522-494fa2097a3d.png)  
+2.创建全新存储产品数据的文件，程序执行完后可以查看文件中的执行结果  
+![GN1X5H(UH}QJ)NC@ VF{28V](https://user-images.githubusercontent.com/44847916/199866169-427cc00a-cd45-422a-ae8a-0915d7d0cf80.png)  
