@@ -4,7 +4,7 @@
 ![RKLG IV}Y3B9~XFFFE_QJYB](https://user-images.githubusercontent.com/44847916/199871031-1f4838d6-5cb6-4cf6-8abe-2e2c243b5c42.png)  
 2.Chrome中安装Ryviu插件（收费）：https://chrome.google.com/webstore/search/Ryviu（需要VPN）    
 ![FQB@G7U{(W`5`J$$ 2_AT{0](https://user-images.githubusercontent.com/44847916/199871110-a2b86109-c01a-4e17-8614-dbd5a74185c5.png)  
-3.设置浏览器插件快捷方式：设置 ->   
+3.设置浏览器插件快捷方式：设置 -> 扩展设置  ->  左上角三条杠（主菜单） -> 选择插件编辑快捷打开方式  -> 按键盘ctrl+r设置快捷方式    
 ![JEAK UAK)1)%9I $E}~_(EY](https://user-images.githubusercontent.com/44847916/199869526-1d75f22e-89a9-4dd1-85b2-ff8015648e81.png)
 ![C08IY)@CSLBC21WK F3 `}Y](https://user-images.githubusercontent.com/44847916/199869703-d4266079-19a7-4b44-84b4-cbc55f4561ba.png)
 ![U5UWY %$WO(FCWQ{FQ)1E$2](https://user-images.githubusercontent.com/44847916/199871483-f07c6196-d5f3-499b-90d5-3d1c0b084a40.png)
