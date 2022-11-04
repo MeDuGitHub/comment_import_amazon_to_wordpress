@@ -10,6 +10,7 @@
 ![NBF4F(HKCBMFNK(WSW7AO5W](https://user-images.githubusercontent.com/44847916/199869831-63a21c49-0265-48f1-bf5a-4c2e434a92f1.png)
 ![PS~ `RDC BLESH5KWK)MDDF](https://user-images.githubusercontent.com/44847916/199869920-a241a205-2e1e-40f2-8694-cb9d4eea644a.png)
 ![Uploading 3_V[TEF0$Z(E{2E(%WV9UA5.png…]()  
+ 
 ## 软件使用前设置
 1.选择加载插件目录，插件插件目录一般在：C:\Users\（用户名）\AppData\Local\Google\Chrome\User Data  
 ![HO71%6F}HHHDAO(GFX}ML%6](https://user-images.githubusercontent.com/44847916/199865531-7d89354d-3cea-4574-a522-494fa2097a3d.png)  
